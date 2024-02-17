@@ -4,4 +4,4 @@ I built this project in accordance with the Frontend Mentor challenge "Recipe Pa
 
 ## Skills Used
 
-${\color{#2980b9}HTML5}
+${\color{#2980b9}HTML5}$
