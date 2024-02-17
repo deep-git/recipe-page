@@ -4,4 +4,5 @@ I built this project in accordance with the Frontend Mentor challenge "Recipe Pa
 
 ## Skills Used
 
-$\color{#2980b9}{\textsf{HTML5}}$ and $\color{#2980b9}{\textsf{CSS3}}$
+- $\color{#2980b9}{\textsf{HTML5}}$
+- $\color{#2980b9}{\textsf{CSS3}}$
