@@ -4,4 +4,4 @@ I built this project in accordance with the Frontend Mentor challenge "Recipe Pa
 
 ## Skills Used
 
-`#2980b9` HTML5 `#000000` and `#2980b9` CSS3
+<span style="color:#2980b9">HTML5</span> and <span style="color:#2980b9">CSS3</span>
