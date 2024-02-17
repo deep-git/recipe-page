@@ -125,6 +125,13 @@ p {
     font-weight: bold;
 }
 
+#instructions_list > li {
+    list-style-position: outside;
+    padding-left: 10px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+
 .highlight_text {
     color: var(--gray-bold-font);
     font-weight: bold;
